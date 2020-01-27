@@ -30,7 +30,7 @@ To get started on this project, follow the installations instructions below.
 ### Installations
 ``` Installing
 
-Before you contribute
+Before using this commerce application,
 
 Make sure you install all the dependencies you need for the project
 Once you have Node.js installed on your computer
